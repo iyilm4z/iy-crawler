@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iy.Crawler", "src\Iy.Crawle
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FC00BCBD-D6D0-491B-8A76-A1BD3F71DDBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iy.crawler.Tests", "test\Iy.crawler.Tests\Iy.crawler.Tests.csproj", "{E2B202FE-5CA1-4517-962E-73C659E9DC6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iy.Crawler.Tests", "test\Iy.Crawler.Tests\Iy.Crawler.Tests.csproj", "{E2B202FE-5CA1-4517-962E-73C659E9DC6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

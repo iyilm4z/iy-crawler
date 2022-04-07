@@ -1,4 +1,4 @@
-﻿namespace Iy.crawler.Tests;
+﻿namespace Iy.Crawler.Tests;
 
 public static class TestStore
 {
